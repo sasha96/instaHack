@@ -8,4 +8,5 @@ for (var i = 0; i < bts.length; i++) {
         incr++;
     }, t);
     t += 2000;
+    console.log('test commit');
 }
